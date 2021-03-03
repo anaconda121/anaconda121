@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
+
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 > 
 

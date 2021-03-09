@@ -7,12 +7,14 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=TanishT&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
+<img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="TanishT" />
+
 <!--
 **TanishT/TanishT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishT&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
-<img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="danBamikiya" />
+
 
 
 Here are some ideas to get you started:

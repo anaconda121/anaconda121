@@ -7,8 +7,8 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=TanishT&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thititongumpun&layout=compact&langs_count=10&theme=buefy)](https://github.com/thititongumpun)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thititongumpun&layout=compact)](https://github.com/thititongumpun)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishT&layout=compact&langs_count=10&theme=buefy)](https://github.com/TanishT)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TanishT&layout=compact)](https://github.com/TanishT)      
 
 <img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="TanishT" />
 

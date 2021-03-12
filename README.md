@@ -26,6 +26,8 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cpp&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-SKlearn-informational?style=flat&logo=SKlearn&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&labelColor=9c9c9c&color=cdd5e0)

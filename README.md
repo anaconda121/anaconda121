@@ -19,6 +19,10 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+
 
 <!--
 **TanishT/TanishT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,7 +9,6 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishT&layout=compact&langs_count=10&theme=buefy)](https://github.com/TanishT)
 
-
 <img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="TanishT" />
 
 ### 🔧 Technologies & Tools

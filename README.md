@@ -17,7 +17,7 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tool-Git?style=flat&logo=Seaborn&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Seaborn&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=JQuery&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ajax&logoColor=white&labelColor=9c9c9c&color=cdd5e0)

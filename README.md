@@ -5,7 +5,7 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 > 
 
-![basic-stats](https://github-readme-stats.vercel.app/api?username=TanishT&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
+![basic-stats](https://github-readme-stats.vercel.app/api?username=anaconda121&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda121&layout=compact&langs_count=10&theme=buefy)](https://github.com/TanishT)
 

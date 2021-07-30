@@ -7,11 +7,10 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
 <table cellpadding="4" cellspacing="4">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaconda121&theme=solarized_dark"  ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaconda121&theme=solarized_dark"></td>
    </tr>
    <tr>
       <td><img src="https://activity-graph.herokuapp.com/graph?username=anaconda121&bg_color=073642&color=1ced8c&line=006400&point=27d6a7&area=true"></td>
-  </td>
   </tr>
 </table>
 

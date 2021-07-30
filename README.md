@@ -2,6 +2,18 @@
 
 I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 
+## Statistics
+
+<table cellpadding="8" cellspacing="8">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaconda121&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=anaconda121&bg_color=073642&color=1ced8c&line=006400&point=27d6a7&area=true" display=block width=100% height=auto alt="2"></td>
+  </td>
+  </tr>
+</table>
+
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=anaconda121&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)

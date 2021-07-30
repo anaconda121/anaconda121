@@ -22,16 +22,12 @@ I'm Tanish Tyagi, a 10th grader at Phillips Exeter Academy.
 ### 🔧 Technologies & Tools
 
   ---
-
-   
-   
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=python" alt="anaconda121"/></a> 
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="anaconda121"/></a> 
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="anaconda121"/></a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="anaconda121"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=hmtl" alt="anaconda121"/></a> 
+
 
 <!-- ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&labelColor=9c9c9c&color=cdd5e0)

@@ -11,7 +11,7 @@ I'm Tanish Tyagi, a 11th grader at Phillips Exeter Academy.
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaconda121&theme=solarized_dark">
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda121&layout=compact&langs_count=10&theme=buefy)](https://github.com/TanishT) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda121&layout=compact&langs_count=10&theme=buefy)](https://github.com/TanishT)
 
 <!-- ![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda121&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
  -->

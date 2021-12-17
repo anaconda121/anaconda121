@@ -2,6 +2,10 @@
 
 I'm Tanish Tyagi, a 11th grader at Phillips Exeter Academy.
 
+## Contact Me
+Work: ttyagi@mgh.havard.edu
+School: ttyagi@exeter.edu
+
 ## Statistics
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)

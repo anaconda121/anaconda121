@@ -3,7 +3,8 @@
 I'm Tanish Tyagi, a 11th grader at Phillips Exeter Academy.
 
 ## Contact Me
-Work: ttyagi@mgh.havard.edu \\
+Work: ttyagi@mgh.havard.edu
+
 School: ttyagi@exeter.edu
 
 ## Statistics

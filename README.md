@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="5px">
 
 I'm Tanish Tyagi, a rising senior at Phillips Exeter Academy.
 

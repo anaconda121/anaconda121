@@ -11,7 +11,9 @@ School: ttyagi@exeter.edu
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ![basic-stats](https://github-readme-stats.vercel.app/api?username=anaconda121&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
+-->
 
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaconda121&theme=solarized_dark">

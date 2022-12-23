@@ -7,7 +7,9 @@ Work: ttyagi@mgh.havard.edu
 
 School: ttyagi@exeter.edu
 
-<!-- ## Statistics
+<!-- 
+
+## Statistics
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,11 +39,13 @@ School: ttyagi@exeter.edu
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="anaconda121"/></a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="anaconda121"/></a> 
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="anaconda121"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=html" alt="anaconda121"/></a>  --> -->
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=html" alt="anaconda121"/></a>  \
+
+--> 
 
 
 <!-- ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)

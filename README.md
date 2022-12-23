@@ -7,9 +7,7 @@ Work: ttyagi@mgh.havard.edu
 
 School: ttyagi@exeter.edu
 
-<!-- 
-
-## Statistics
+<!-- ## Statistics
 
 > Stats taken from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,9 +18,9 @@ School: ttyagi@exeter.edu
 
 ![language-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda121&title_color=fff&icon_color=2f96c0&text_color=D8C787&bg_color=222222)
 
-<img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="TanishT" />
+<img src="https://komarev.com/ghpvc/?username=TanishT&label=Profile%20views&color=00acee&style=flat" alt="TanishT" /> -->
 
-### 🔧 Technologies & Tools
+<!-- ### 🔧 Technologies & Tools
 
   ---
 
@@ -43,10 +41,7 @@ School: ttyagi@exeter.edu
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="anaconda121"/></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=html" alt="anaconda121"/></a>  \
-
---> 
-
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML-FF0000?style=for-the-badge&logo=html" alt="anaconda121"/></a> -->
 
 <!-- ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
